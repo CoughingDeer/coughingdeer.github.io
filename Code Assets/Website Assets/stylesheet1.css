@@ -1,0 +1,264 @@
+/*Set Up Style*/
+
+@font-face {
+	font-family: KiddosyFree-Regular;
+	src: url(Kiddosy.otf);
+}
+
+#holder {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	width: 10%;
+	height: auto;
+	opacity: 0.5;
+	z-index: 2;
+	display: none;
+}
+
+/*Paragraph Styles*/
+
+#par1 {
+	position: absolute;
+	top: 580px;
+	left: 10px;
+	font-size: 25px;
+	text-align: center;
+	padding-right: 490px;
+	padding-left: 510px;
+	font-family: KiddosyFree-Regular;
+}
+
+#par2 {
+	position: absolute;
+	top: 1190px;
+	left: 670px;
+	text-align: center;
+	font-size: 25px;
+	font-family: KiddosyFree-Regular;
+}
+
+#warn {
+	position: absolute;
+	top: 1370px;
+	left: 1410px;
+	text-align: center;
+	font-size: 12px;
+	padding-right: 50px;
+	padding-left: 100px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#follow {
+	position: absolute;
+	top: 1350px;
+	right: 1718px;
+	text-align: center;
+	font-size: 28px;
+	padding-right: 10px;
+	padding-left: 50px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#contact {
+	position: absolute;
+	top: 1400px;
+	right: 1715px;
+	text-align: center;
+	font-size: 28px;
+	padding-left: 50px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+/*Header Styles*/
+
+#LOGO {
+	position: absolute;
+	width: 30%;
+	height: auto;
+	left: 33%;
+	top: 2.6%;
+	z-index: 1;	
+}
+
+h1 {
+	color:#ff5757;
+	position: absolute;
+	top: 20%;
+	left: 35%;
+	font-size: 45px;
+	text-align: center;
+	font-family: KiddosyFree-Regular;
+}
+
+#strip {
+	position: absolute;
+	top: 32.4%;
+	left: 0%;
+	border-style: solid;
+	border-color: #ff5757;
+	background-color: #ff5757;
+	height: 11.8%;
+	width: 99.7%;
+}
+
+.lead:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.lead:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.lead:hover {
+	color: #ffffff;
+	font-size: 37px;
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+.lead:active {
+	color: #ffffff;
+	font-size: 37px;
+	text-decoration: none;
+}
+
+h2 {
+	color: #000000;
+	position: absolute;
+	top: 33.4%;
+	left: 37.8%;
+	font-size: 35px;
+	font-family: KiddosyFree-Regular;
+}
+
+h3 {
+	color: #ffffff;
+	position: absolute;
+	top: 32.9%;
+	right: 40%;
+	font-size: 35px;
+	font-family: KiddosyFree-Regular;
+}
+
+/*Body Styles*/
+
+h4 {
+	position: absolute;
+	top: 400px;
+	left: 630px;
+	font-size: 65px;
+	font-family: KiddosyFree-Regular;
+}
+
+h5 {
+	position: absolute;
+	top: 750px;
+	left: 760px;
+	font-size: 65px;
+	font-family: KiddosyFree-Regular;
+}
+
+#overlay {
+	position: fixed;
+	display: none;
+	width: 2000px;
+	height: 1000px;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.8);
+	z-index: 2;
+	cursor: pointer;
+}
+
+#animated {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	border-style: solid;
+	border-color: #ffffff;
+	background-color: #ffffff;
+	opacity 1;
+	width: 1140px;
+	height: 400px;
+}
+
+#text {
+	position: absolute;
+	top: 70%;
+	left: 48%;
+	text-align: center;
+	font-size: 50px;
+	opacity: 1;
+	color: #ffffff;
+	transform: translate(-50%,-50%);
+	-ms-transform: translate(-50%,-50%);
+	font-family: KiddosyFree-Regular
+}
+	
+
+#placeholder {
+	position: absolute;
+	top: 100px;
+	right: -600px;
+	width: 850px;
+	height: 220px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+}
+
+/*Footer Styles*/
+
+#discord {
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 565px;
+	right: 555px;
+}
+
+#gmail {
+	width: 40px;
+	height: 30px;
+	position: absolute;
+	top: 570px;
+	right: 500px;
+}
+
+#insta {
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	top: 519px;
+	right: 559px;
+}
+
+#youtube {
+	width: 40px;
+	height: 30px;
+	position: absolute;
+	top: 520px;
+	right: 500px;
+}
+
+#foot {
+	position: absolute;
+	top: 500px;
+	left: -1000px;
+	border-style: solid;
+	border-color: #ff5757;
+	background-color: #ff5757;
+	height: 110px;
+	width: 2137px;
+}

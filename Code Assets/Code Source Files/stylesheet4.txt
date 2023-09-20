@@ -1,0 +1,260 @@
+@font-face {
+	font-family: KiddosyFree-Regular;
+	src: url(Kiddosy.otf);
+}
+
+#warn {
+	position: absolute;
+	top: 1645px;
+	right: 0px;
+	text-align: center;
+	font-size: 12px;
+	padding-right: 40px;
+	padding-left: 1520px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#follow {
+	position: absolute;
+	top: 1625px;
+	left: 15px;
+	text-align: center;
+	font-size: 28px;
+	padding-right: 10px;
+	padding-left: 50px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#contact {
+	position: absolute;
+	top: 1675px;
+	left: 10px;
+	text-align: center;
+	font-size: 28px;
+	padding-left: 50px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+img {
+	position: absolute;
+	left: 700px;
+	top: -150px;
+	height: 600px;
+	width: 500px;
+}
+
+#TW {
+	position: absolute;
+	left: 800px;
+	top: 1530px;
+	text-align: center;
+	font-size: 25px;
+	font-family: KiddosyFree-Regular;
+}
+
+#info {
+	position: absolute;
+	left: 30px;
+	top: 700px;
+	text-align: center;
+	font-size: 30px;
+	padding-right: 320px;
+	padding-left: 300px;
+	font-family: KiddosyFree-Regular;
+}
+
+#who {
+	position: absolute;
+	left: 30px;
+	top: 1050px;
+	text-align: center;
+	font-size: 30px;
+	padding-right: 320px;
+	padding-left: 300px;
+	font-family: KiddosyFree-Regular;
+}
+
+#where {
+	position: absolute;
+	left: 30px;
+	top: 1400px;
+	text-align: center;
+	font-size: 30px;
+	padding-right: 320px;
+	padding-left: 300px;
+	font-family: KiddosyFree-Regular;
+}
+
+header {
+	position: absolute;
+	top: 300px;
+	left: -10px;
+	border-style: solid;
+	border-size: 5px;
+	border-color: #ff5757;
+	background-color: #ff5757;
+	width: 1907px;
+	height: 150px;
+}
+
+#small_logo {
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	width: 150px;
+	height: 50px;
+}
+
+#lead:link {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead:visited {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead:hover {
+	color: #ffffff;
+	font-size: 67px;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+	transition: 0.3s;
+}
+
+#lead:active {
+	color: #ff5757;
+	font-size: 67px;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead2:link {
+	color: #ff5757;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead2:visited {
+	color: #ff5757;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead2:hover {
+	color: #ff5757;
+	font-size: 27px;
+	text-decoration: underline;
+	font-family: KiddosyFree-Regular;
+	transition: 0.3s;
+}
+
+#lead2:active {
+	color: #ffffff;
+	font-size: 27px;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#cpage {
+	position: absolute;
+	top: 0px;
+	left: 580px;
+	text-align: center;
+	font-size: 65px;
+	color: #ffffff
+	font-family: KiddosyFree-Regular;
+}
+
+#epage {
+	position: absolute;
+	top: -10px;
+	right: 620px;
+	text-align: center;
+	font-size: 65px;
+	color: #ffffff
+	font-family: KiddosyFree-Regular;
+}
+
+h3 {
+	position: absolute;
+	top: 450px;
+	left: 595px;
+	text-align: center;
+	font-size: 75px;
+	font-family: KiddosyFree-Regular;
+}
+
+h4 {
+	position: absolute;
+	top: 850px;
+	left: 595px;
+	text-align: center;
+	font-size: 75px;
+	font-family: KiddosyFree-Regular;
+}
+
+h5 {
+	position: absolute;
+	top: 1100px;
+	left: 470px;
+	text-align: center;
+	font-size: 75px;
+	font-family: KiddosyFree-Regular;
+}
+
+#discord {
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 475px;
+	left: -265px;
+	z-index: 1;
+}
+
+#gmail {
+	width: 40px;
+	height: 30px;
+	position: absolute;
+	top: 480px;
+	left: -210px;
+	z-index: 1;
+}
+
+#insta {
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	top: 429px;
+	left: -261px;
+	z-index: 1;
+}
+
+#youtube {
+	width: 40px;
+	height: 30px;
+	position: absolute;
+	top: 430px;
+	left: -210px;
+	z-index: 1;
+}
+
+.foot {
+	position: absolute;
+	top: 410px;
+	left: -500px;
+	border-style: solid;
+	border-color: #ff5757;
+	background-color: #ff5757;
+	height: 110px;
+	width: 1927px;
+}

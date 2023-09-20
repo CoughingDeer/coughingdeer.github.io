@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>KidswO-My Best Friend, Bunt</title>
+<body>
+
+<!--Link Area-->
+<link rel="stylesheet" href="stylesheet6.css">
+<link rel="icon" type="image/x-icon" href="Mini_Logo.png">
+
+
+<!--Header-->
+
+<img src="PLACEHOLDER.png" alt="A Placeholder">
+
+<header>
+	<a href="KidswO.html" target="_blank"><img id="small_logo" src="KidswO Logo_w.png" alt="white_logo"></a>
+	<h1 id="characterpage"><a id="lead" href="MBFB_Characters.html">Characters</a><h1>
+	<h2 id="infopage"><a id="lead" href="MBFB_Info.html">Information</a><h2>
+</header>
+
+<!--Body-->
+
+<h3>My Best Friend, Bunt <br>Episodes</br><h3>
+
+</body>
+</head>
+</html>

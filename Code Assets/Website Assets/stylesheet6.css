@@ -1,0 +1,88 @@
+@font-face {
+	font-family: KiddosyFree-Regular;
+	src: url(Kiddosy.otf);
+}
+
+img {
+	position: absolute;
+	left: 700px;
+	top: -150px;
+	height: 600px;
+	width: 500px;
+}
+
+header {
+	position: absolute;
+	top: 300px;
+	left: -10px;
+	border-style: solid;
+	border-size: 5px;
+	border-color: #ff5757;
+	background-color: #ff5757;
+	width: 1924px;
+	height: 150px;
+}
+
+#small_logo {
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	width: 150px;
+	height: 50px;
+}
+
+#lead:link {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead:visited {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead:hover {
+	color: #ffffff;
+	font-size: 67px;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+	transition: 0.3s;
+}
+
+#lead:active {
+	color: #ffffff;
+	font-size: 67px;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#characterpage {
+	position: absolute;
+	top: 0px;
+	left: 580px;
+	text-align: center;
+	font-size: 65px;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#infopage {
+	position: absolute;
+	top: -10px;
+	right: 550px;
+	text-align: center;
+	font-size: 65px;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+h3 {
+	position: absolute;
+	top: 430px;
+	right: 670px;
+	text-align: center;
+	font-size: 65px;
+	font-family: KiddosyFree-Regular;
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>KidswO-Shows</title>
+<body style="height: 1195px;">
+
+<!--Links-->
+<link rel="stylesheet" href="stylesheet3.css".>
+<link rel="icon" type="image/x-icon" href="Mini_Logo.png">
+
+<!--Paragraphs Section-->
+<p id="mbfb">My Best Friend, <br>Bunt</br></p>
+<p id="lmbth">Little Mouse <br>Behind the House</br></p>
+<p id="wosn">Willy Our Shadowy <br>Neighbor</br></p>
+<p id="sta">Adventurer <br>Sally</br></p>
+<p id="see"><a id="more" href="KidswO_404.html">See More...</p>
+
+<p id="warn">KidswO and everything produced along with the name is purely false, and is not an actual trademarked property that produces educational cartoons. <br>My Best Friend, Bunt is recommended for audiences above 13 and includes themes that may be disturbing to younger viewers.</br></p>
+
+<p id="follow">Follow Us:</p>
+<p id="contact">Contact Us:</p>
+
+<!--Header-->
+
+<header>
+	<a href="KidswO.html"><img id="small_logo" src="KidswO Logo_w.png" alt="white_logo"></a>
+	<h1 id="homepage"><a id="lead" href="KidswO.html" target="_blank">Home</a><h1>
+	<h2 id="aboutpage"><a id="lead" href="KidswO_About.html" target="_blank">About Us</a><h2>
+</header>
+
+<!--Body-->
+
+<h2 id="show">Our Shows<h2>
+
+<a id="lead2" href="MBFB_Info.html" target="_blank"><div id="round1">
+</div>
+<a id="lead2" href="KidswO_404.html" target="_self"><div id="round2">
+</div>
+<a id="lead2" href="KidswO_404.html" target="_self"><div id="round3">
+</div>
+<a id="lead2" href="KidswO_404.html" target="_self"><div id="round4">
+</div>
+
+<div class="break">
+</div>
+
+<!--Footer-->
+
+	<a href="https://discord.gg/UQD4f3JPAe""><img id="discord" src="Logo.Discord.png" alt="link_discord"></a>
+	<a href="https://www.instagram.com/kidswofficial/"><img id="insta" src="Instagram-Logo.png" alt="link_insta"></a>
+	<a href="https://www.youtube.com/channel/UCPVKAF5MRXOyi1LTZGtR96g"><img id="youtube" src="Logo.Youtube.png" alt="link_youtube"></a>
+	<a href="https://mail.google.com/mail/u/1/#inbox"><img id="gmail" src="Logo.Gmail.png" alt="link_gmail"></a>
+
+<footer>
+<div class="foot">
+</div>
+</footer>
+
+</body>
+</head>
+</html>

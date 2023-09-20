@@ -1,0 +1,329 @@
+@font-face {
+	font-family: KiddosyFree-Regular;
+	src: url(Kiddosy.otf);
+}
+
+#warn {
+	position: absolute;
+	top: 1520px;
+	right: 0px;
+	text-align: center;
+	font-size: 12px;
+	padding-right: 50px;
+	padding-left: 1510px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#follow {
+	position: absolute;
+	top: 1500px;
+	left: 15px;
+	text-align: center;
+	font-size: 28px;
+	padding-right: 10px;
+	padding-left: 50px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#contact {
+	position: absolute;
+	top: 1550px;
+	left: 10px;
+	text-align: center;
+	font-size: 28px;
+	padding-left: 50px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#mbfb {
+	position: absolute;
+	top: 350px;
+	left: 420px;
+	font-size: 50px;
+	text-align: center;
+	font-family: KiddosyFree-Regular
+}
+
+#lmbth {
+	position: absolute;
+	top: 350px;
+	right: 380px;
+	font-size: 50px;
+	text-align: center;
+	font-family: KiddosyFree-Regular;
+}
+
+#wosn {
+	position: absolute;
+	top: 900px;
+	left: 390px;
+	font-size: 50px;
+	text-align: center;
+	font-family: KiddosyFree-Regular;
+}
+
+#sta {
+	position: absolute;
+	top: 895px;
+	right: 440px;
+	font-size: 50px;
+	text-align: center;
+	font-family: KiddosyFree-Regular;
+}
+
+#see {
+	position: absolute;
+	top: 1350px;
+	left: 870px;
+	font-size: 50px;
+	text-align: center;
+	font-family: KiddosyFree-Regular;
+}
+
+header {
+	position: absolute;
+	top: -10px;
+	left: -10px;
+	border-style: solid;
+	border-size: 5px;
+	border-color: #ff5757;
+	background-color: #ff5757;
+	width: 1907px;
+	height: 150px;
+}
+
+#small_logo {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 150px;
+	height: 50px;
+}
+
+#lead:link {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead:visited {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead:hover {
+	color: #ffffff;
+	font-size: 67px;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+	transition: 0.3s;
+}
+
+#lead:active {
+	color: #ffffff;
+	font-size: 67px;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead2:link {
+	width: 250px;
+	height: 250px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	border-radius: 250px;
+}
+
+#lead2:visited {
+	width: 250px;
+	height: 250px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	border-radius: 250px;
+}
+
+#lead2:hover {
+	width: 260px;
+	height: 260px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	border-radius: 260px;
+	transition: 0.3s;
+}
+
+#lead2:active {
+	width: 260px;
+	height: 260px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	border-radius: 260px;
+}
+
+#more:link {
+	color: #000000;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#more:visited {
+	color: #000000;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#more:hover {
+	color: #000000;
+	font-size: 52px;
+	text-decoration: underline;
+	font-family: KiddosyFree-Regular;
+	transition: 0.3s;
+}
+
+#more:active {
+	color: #000000;
+	font-size: 52px;
+	text-decoration: underline;
+	font-family: KiddosyFree-Regular;
+}
+
+#homepage {
+	position: absolute;
+	top: 0px;
+	left: 700px;
+	text-align: center;
+	font-size: 65px;
+	color: #ffffff
+	font-family: KiddosyFree-Regular;
+}
+
+#aboutpage {
+	position: absolute;
+	top: -10px;
+	right: 610px;
+	text-align: center;
+	font-size: 65px;
+	color: #ffffff
+	font-family: KiddosyFree-Regular;
+}
+
+#show {
+	position: absolute;
+	top: 100px;
+	left: 740px;
+	font-size: 100px;
+	font-family: KiddosyFree-Regular;
+}
+
+#round1 {
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	border-radius: 250px;
+	top: 550px;
+	left: 440px;
+}
+
+#round2 {
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	border-radius: 250px;
+	top: 550px;
+	right: 420px;
+}
+
+#round3 {
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	border-radius: 250px;
+	top: 1100px;
+	left: 440px;
+}
+
+#round4 {
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	border-radius: 250px;
+	top: 1100px;
+	right: 420px;
+}
+
+.break {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	top: 1200px;
+	display: none;
+}
+
+#discord {
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 1575px;
+	left: 205px;
+	z-index: 1;
+}
+
+#gmail {
+	width: 40px;
+	height: 30px;
+	position: absolute;
+	top: 1580px;
+	left: 260px;
+	z-index: 1;
+}
+
+#insta {
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	top: 1529px;
+	left: 209px;
+	z-index: 1;
+}
+
+#youtube {
+	width: 40px;
+	height: 30px;
+	position: absolute;
+	top: 1530px;
+	left: 260px;
+	z-index: 1;
+}
+
+.foot {
+	position: absolute;
+	top: 1510px;
+	left: 0px;
+	border-style: solid;
+	border-color: #ff5757;
+	background-color: #ff5757;
+	height: 110px;
+	width: 1897px;
+}

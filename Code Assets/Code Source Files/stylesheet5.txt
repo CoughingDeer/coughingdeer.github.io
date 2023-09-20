@@ -1,0 +1,293 @@
+@font-face {
+	font-family: KiddosyFree-Regular;
+	src: url(Kiddosy.otf);
+}
+
+#warn {
+	position: absolute;
+	top: 2075px;
+	right: 0px;
+	text-align: center;
+	font-size: 12px;
+	padding-right: 40px;
+	padding-left: 1520px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#follow {
+	position: absolute;
+	top: 2055px;
+	left: 15px;
+	text-align: center;
+	font-size: 28px;
+	padding-right: 10px;
+	padding-left: 50px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+#contact {
+	position: absolute;
+	top: 2105px;
+	left: 10px;
+	text-align: center;
+	font-size: 28px;
+	padding-left: 50px;
+	z-index: 1;
+	color: #ffffff;
+	font-family: KiddosyFree-Regular;
+}
+
+
+#cast {
+	position: absolute;
+	left: 790px;
+	top: 550px;
+	text-align: center;
+	font-size: 50px;
+	font-family: KiddosyFree-Regular;
+}
+
+#bunt {
+	position: absolute;
+	right: 600px;
+	top: 700px;
+	text-align: center;
+	font-size: 65px;
+	font-family: KiddosyFree-Regular;
+}
+
+#boxy {
+	position: absolute;
+	right: 595px;
+	top: 1000px;
+	text-align: center;
+	font-size: 65px;
+	font-family: KiddosyFree-Regular;
+}
+
+#rag {
+	position: absolute;
+	right: 605px;
+	top: 1300px;
+	text-align: center;
+	font-size: 65px;
+	font-family: KiddosyFree-Regular;
+}
+
+#tag {
+	position: absolute;
+	right: 610px;
+	top: 1650px;
+	text-align: center;
+	font-size: 65px;
+	font-family: KiddosyFree-Regular;
+}
+
+#des1 {
+	position: absolute;
+	right: 150px;
+	top: 850px;
+	text-align: center;
+	font-size: 30px;
+	padding-left: 850px;
+	padding-right: 100px;
+	font-family: KiddosyFree-Regular;
+}
+
+#des2 {
+	position: absolute;
+	right: 150px;
+	top: 1150px;
+	text-align: center;
+	font-size: 30px;
+	padding-left: 850px;
+	padding-right: 100px;
+	font-family: KiddosyFree-Regular;
+}
+
+#des3 {
+	position: absolute;
+	right: 150px;
+	top: 1450px;
+	text-align: center;
+	font-size: 30px;
+	padding-left: 850px;
+	padding-right: 100px;
+	font-family: KiddosyFree-Regular;
+}
+
+#des4 {
+	position: absolute;
+	right: 150px;
+	top: 1800px;
+	text-align: center;
+	font-size: 30px;
+	padding-left: 850px;
+	padding-right: 100px;
+	font-family: KiddosyFree-Regular;
+}
+
+#place1 {
+	position: absolute;
+	left: 700px;
+	top: -150px;
+	height: 600px;
+	width: 500px;
+}
+
+header {
+	position: absolute;
+	top: 300px;
+	left: -10px;
+	border-style: solid;
+	border-size: 5px;
+	border-color: #ff5757;
+	background-color: #ff5757;
+	width: 1907px;
+	height: 150px;
+}
+
+#small_logo {
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	width: 150px;
+	height: 50px;
+}
+
+#lead:link {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead:visited {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#lead:hover {
+	color: #ffffff;
+	font-size: 67px;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+	transition: 0.3s;
+}
+
+#lead:active {
+	color: #ffffff;
+	font-size: 67px;
+	text-decoration: none;
+	font-family: KiddosyFree-Regular;
+}
+
+#infopage {
+	position: absolute;
+	top: 0px;
+	left: 550px;
+	text-align: center;
+	font-size: 65px;
+	color: #ffffff
+}
+
+#episodepage {
+	position: absolute;
+	top: -10px;
+	right: 620px;
+	text-align: center;
+	font-size: 65px;
+	color: #ffffff
+}
+
+h3 {
+	position: absolute;
+	top: 430px;
+	left: 615px;
+	text-align: center;
+	font-size: 75px;
+	font-family: KiddosyFree-Regular;
+}
+
+#place2 {
+	position: absolute;
+	top: 250px;
+	left: -100px;
+	width: 200px;
+	height: 200px;
+}
+
+#place3 {
+	position: absolute;
+	top: 600px;
+	left: -100px;
+	width: 200px;
+	height: 200px;
+}
+
+#place4 {
+	position: absolute;
+	top: 900px;
+	left: -100px;
+	width: 200px;
+	height: 200px;
+}
+
+#place5 {
+	position: absolute;
+	top: 1300px;
+	left: -100px;
+	width: 200px;
+	height: 200px;
+}
+
+#discord {
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 1625px;
+	left: -410px;
+	z-index: 1;
+}
+
+#gmail {
+	width: 40px;
+	height: 30px;
+	position: absolute;
+	top: 1630px;
+	left: -355px;
+	z-index: 1;
+}
+
+#insta {
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	top: 1579px;
+	left: -406px;
+	z-index: 1;
+}
+
+#youtube {
+	width: 40px;
+	height: 30px;
+	position: absolute;
+	top: 1580px;
+	left: -355px;
+	z-index: 1;
+}
+
+.foot {
+	position: absolute;
+	top: 1560px;
+	left: -615px;
+	border-style: solid;
+	border-color: #ff5757;
+	background-color: #ff5757;
+	height: 110px;
+	width: 1897px;
+}
